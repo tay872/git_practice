@@ -6,4 +6,6 @@ public class LoginPage {
     //I'm working on page
 
     //I'm about to complete it
+
+    //Completed
 }
